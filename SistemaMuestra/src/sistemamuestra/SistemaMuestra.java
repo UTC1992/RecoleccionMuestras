@@ -4,6 +4,9 @@
  * and open the template in the editor.
  */
 package sistemamuestra;
+import com.tecnosolutions.model.*;
+import com.tecnosolutions.view.*;
+import java.sql.*;
 
 /**
  *
@@ -16,6 +19,8 @@ public class SistemaMuestra {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       Home home = new Home();
+       home.show();
     }
     
 }
