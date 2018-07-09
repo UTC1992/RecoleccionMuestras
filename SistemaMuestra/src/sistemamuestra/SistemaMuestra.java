@@ -19,7 +19,7 @@ public class SistemaMuestra {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-       Home home = new Home();
+       Dashboard home = new Dashboard();
        home.show();
     }
     
