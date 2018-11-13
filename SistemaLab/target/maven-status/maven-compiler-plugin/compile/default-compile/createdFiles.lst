@@ -1,3 +1,6 @@
+com\tecnosolutions\recursosModel\Persona.class
+com\tecnosolutions\model\PersonaModel.class
 com\tecnosolutions\sistemalab\MainApp.class
+com\tecnosolutions\model\Conexion.class
 com\tecnosolutions\sistemalab\FXMLController.class
 com\tecnosolutions\controller\DashboardController.class
